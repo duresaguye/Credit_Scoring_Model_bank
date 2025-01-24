@@ -1,7 +1,7 @@
-# Credit Scoring Model for Bati Bank
+# Credit Scoring Model 
 
 ## Overview
-This project involves building a Credit Scoring Model for Bati Bank to enable a buy-now-pay-later service. The project includes tasks such as understanding credit risk, exploratory data analysis (EDA), feature engineering, model training, and deployment.
+This project involves building a Credit Scoring Model  to enable a buy-now-pay-later service. The project includes tasks such as understanding credit risk, exploratory data analysis (EDA), feature engineering, model training, and deployment.
 
 ## Directory Structure
 - `data/`: Contains the dataset (ignored in version control).
